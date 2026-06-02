@@ -1,0 +1,325 @@
+{
+  "tn10_tm": {
+    "name": "TN 10th Tamil Medium",
+    "lang": "Tamil",
+    "subjects": {
+      "தமிழ்": {
+        "chapters": [
+          {"id":1,"title":"பாடல் 1: கல்வி அமுதம்","topic":"தமிழ் இலக்கியம்"},
+          {"id":2,"title":"பாடல் 2: நீதி வெண்பா","topic":"நீதி இலக்கியம்"},
+          {"id":3,"title":"பாடல் 3: புறநானூறு","topic":"சங்க இலக்கியம்"},
+          {"id":4,"title":"பாடல் 4: திருக்குறள்","topic":"நீதி நூல்"},
+          {"id":5,"title":"பாடல் 5: தமிழ் வரலாறு","topic":"வரலாறு"},
+          {"id":6,"title":"பாடல் 6: இலக்கணம்","topic":"இலக்கணம்"}
+        ]
+      },
+      "English": {
+        "chapters": [
+          {"id":1,"title":"Unit 1: His First Flight","topic":"Prose"},
+          {"id":2,"title":"Unit 2: The Night the Ghost Got In","topic":"Prose"},
+          {"id":3,"title":"Unit 3: Empowered Women","topic":"Prose"},
+          {"id":4,"title":"Unit 4: The Attic","topic":"Prose"},
+          {"id":5,"title":"Unit 5: Tech Bloomers","topic":"Prose"},
+          {"id":6,"title":"Unit 6: The Last Lesson","topic":"Prose"},
+          {"id":7,"title":"Unit 7: The Dying Detective","topic":"Prose"}
+        ]
+      },
+      "கணிதம்": {
+        "chapters": [
+          {"id":1,"title":"அலகு 1: உறவுகளும் சார்புகளும்","topic":"இயற்கணிதம்"},
+          {"id":2,"title":"அலகு 2: எண்களும் தொடர்வரிசைகளும்","topic":"எண் கோட்பாடு"},
+          {"id":3,"title":"அலகு 3: இயற்கணிதம்","topic":"இயற்கணிதம்"},
+          {"id":4,"title":"அலகு 4: வடிவியல்","topic":"வடிவியல்"},
+          {"id":5,"title":"அலகு 5: முக்கோணவியல்","topic":"முக்கோணவியல்"},
+          {"id":6,"title":"அலகு 6: அளவையியல்","topic":"அளவையியல்"},
+          {"id":7,"title":"அலகு 7: புள்ளியியல்","topic":"புள்ளியியல்"},
+          {"id":8,"title":"அலகு 8: நிகழ்தகவு","topic":"நிகழ்தகவு"}
+        ]
+      },
+      "அறிவியல்": {
+        "chapters": [
+          {"id":1,"title":"அலகு 1: இயக்க விதிகள்","topic":"இயற்பியல்"},
+          {"id":2,"title":"அலகு 2: மின்னியல் மற்றும் காந்தவியல்","topic":"இயற்பியல்"},
+          {"id":3,"title":"அலகு 3: ஒளியியல்","topic":"இயற்பியல்"},
+          {"id":4,"title":"அலகு 4: அணு அமைப்பு","topic":"வேதியியல்"},
+          {"id":5,"title":"அலகு 5: வேதிப் பிணைப்பு","topic":"வேதியியல்"},
+          {"id":6,"title":"அலகு 6: வேதி வினைகள்","topic":"வேதியியல்"},
+          {"id":7,"title":"அலகு 7: அமிலங்கள் மற்றும் காரங்கள்","topic":"வேதியியல்"},
+          {"id":8,"title":"அலகு 8: சூழலியல்","topic":"உயிரியல்"},
+          {"id":9,"title":"அலகு 9: செல் அமைப்பு","topic":"உயிரியல்"},
+          {"id":10,"title":"அலகு 10: மரபியல்","topic":"உயிரியல்"}
+        ]
+      },
+      "சமூக அறிவியல்": {
+        "chapters": [
+          {"id":1,"title":"அலகு 1: பண்டைய இந்தியா","topic":"வரலாறு"},
+          {"id":2,"title":"அலகு 2: இடைக்கால இந்தியா","topic":"வரலாறு"},
+          {"id":3,"title":"அலகு 3: பிரிட்டிஷ் இந்தியா","topic":"வரலாறு"},
+          {"id":4,"title":"அலகு 4: இயற்கை புவியியல்","topic":"புவியியல்"},
+          {"id":5,"title":"அலகு 5: காலநிலை","topic":"புவியியல்"},
+          {"id":6,"title":"அலகு 6: இந்திய அரசியலமைப்பு","topic":"குடிமையியல்"},
+          {"id":7,"title":"அலகு 7: அரசாங்க அமைப்புகள்","topic":"குடிமையியல்"}
+        ]
+      }
+    }
+  },
+  "tn10_em": {
+    "name": "TN 10th English Medium",
+    "lang": "English",
+    "subjects": {
+      "English": {
+        "chapters": [
+          {"id":1,"title":"Unit 1: His First Flight","topic":"Prose"},
+          {"id":2,"title":"Unit 2: The Night the Ghost Got In","topic":"Prose"},
+          {"id":3,"title":"Unit 3: Empowered Women","topic":"Prose"},
+          {"id":4,"title":"Unit 4: The Attic","topic":"Prose"},
+          {"id":5,"title":"Unit 5: Tech Bloomers","topic":"Prose"},
+          {"id":6,"title":"Unit 6: The Last Lesson","topic":"Prose"},
+          {"id":7,"title":"Unit 7: The Dying Detective","topic":"Prose"}
+        ]
+      },
+      "Mathematics": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Relations and Functions","topic":"Algebra"},
+          {"id":2,"title":"Chapter 2: Numbers and Sequences","topic":"Number Theory"},
+          {"id":3,"title":"Chapter 3: Algebra","topic":"Algebra"},
+          {"id":4,"title":"Chapter 4: Geometry","topic":"Geometry"},
+          {"id":5,"title":"Chapter 5: Trigonometry","topic":"Trigonometry"},
+          {"id":6,"title":"Chapter 6: Mensuration","topic":"Mensuration"},
+          {"id":7,"title":"Chapter 7: Statistics","topic":"Statistics"},
+          {"id":8,"title":"Chapter 8: Probability","topic":"Probability"}
+        ]
+      },
+      "Science": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Laws of Motion","topic":"Physics"},
+          {"id":2,"title":"Chapter 2: Electricity and Magnetism","topic":"Physics"},
+          {"id":3,"title":"Chapter 3: Optics","topic":"Physics"},
+          {"id":4,"title":"Chapter 4: Atomic Structure","topic":"Chemistry"},
+          {"id":5,"title":"Chapter 5: Chemical Bonding","topic":"Chemistry"},
+          {"id":6,"title":"Chapter 6: Chemical Reactions","topic":"Chemistry"},
+          {"id":7,"title":"Chapter 7: Acids and Bases","topic":"Chemistry"},
+          {"id":8,"title":"Chapter 8: Ecology","topic":"Biology"},
+          {"id":9,"title":"Chapter 9: Cell Structure","topic":"Biology"},
+          {"id":10,"title":"Chapter 10: Genetics","topic":"Biology"}
+        ]
+      },
+      "Social Science": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Ancient India","topic":"History"},
+          {"id":2,"title":"Chapter 2: Medieval India","topic":"History"},
+          {"id":3,"title":"Chapter 3: British India","topic":"History"},
+          {"id":4,"title":"Chapter 4: Physical Geography","topic":"Geography"},
+          {"id":5,"title":"Chapter 5: Climate","topic":"Geography"},
+          {"id":6,"title":"Chapter 6: Indian Constitution","topic":"Civics"},
+          {"id":7,"title":"Chapter 7: Government Systems","topic":"Civics"}
+        ]
+      }
+    }
+  },
+  "cbse10": {
+    "name": "CBSE 10th",
+    "lang": "English",
+    "subjects": {
+      "English": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: A Triumph of Surgery","topic":"Prose"},
+          {"id":2,"title":"Chapter 2: The Thief's Story","topic":"Prose"},
+          {"id":3,"title":"Chapter 3: The Midnight Visitor","topic":"Prose"},
+          {"id":4,"title":"Chapter 4: A Question of Trust","topic":"Prose"},
+          {"id":5,"title":"Chapter 5: Footprints Without Feet","topic":"Prose"},
+          {"id":6,"title":"Chapter 6: The Making of a Scientist","topic":"Prose"},
+          {"id":7,"title":"Chapter 7: The Necklace","topic":"Prose"},
+          {"id":8,"title":"Chapter 8: The Hack Driver","topic":"Prose"},
+          {"id":9,"title":"Chapter 9: Bholi","topic":"Prose"},
+          {"id":10,"title":"Chapter 10: The Book that Saved the Earth","topic":"Prose"}
+        ]
+      },
+      "Mathematics": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Real Numbers","topic":"Number Theory"},
+          {"id":2,"title":"Chapter 2: Polynomials","topic":"Algebra"},
+          {"id":3,"title":"Chapter 3: Pair of Linear Equations","topic":"Algebra"},
+          {"id":4,"title":"Chapter 4: Quadratic Equations","topic":"Algebra"},
+          {"id":5,"title":"Chapter 5: Arithmetic Progressions","topic":"Sequences"},
+          {"id":6,"title":"Chapter 6: Triangles","topic":"Geometry"},
+          {"id":7,"title":"Chapter 7: Coordinate Geometry","topic":"Geometry"},
+          {"id":8,"title":"Chapter 8: Introduction to Trigonometry","topic":"Trigonometry"},
+          {"id":9,"title":"Chapter 9: Applications of Trigonometry","topic":"Trigonometry"},
+          {"id":10,"title":"Chapter 10: Circles","topic":"Geometry"}
+        ]
+      },
+      "Science": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Chemical Reactions and Equations","topic":"Chemistry"},
+          {"id":2,"title":"Chapter 2: Acids, Bases and Salts","topic":"Chemistry"},
+          {"id":3,"title":"Chapter 3: Metals and Non-metals","topic":"Chemistry"},
+          {"id":4,"title":"Chapter 4: Carbon and Its Compounds","topic":"Chemistry"},
+          {"id":5,"title":"Chapter 5: Life Processes","topic":"Biology"},
+          {"id":6,"title":"Chapter 6: Control and Coordination","topic":"Biology"},
+          {"id":7,"title":"Chapter 7: How do Organisms Reproduce","topic":"Biology"},
+          {"id":8,"title":"Chapter 8: Heredity and Evolution","topic":"Biology"},
+          {"id":9,"title":"Chapter 9: Light - Reflection and Refraction","topic":"Physics"},
+          {"id":10,"title":"Chapter 10: The Human Eye","topic":"Physics"}
+        ]
+      },
+      "Social Science": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: India and the Contemporary World","topic":"History"},
+          {"id":2,"title":"Chapter 2: Livelihoods and Economies","topic":"History"},
+          {"id":3,"title":"Chapter 3: Age of Industrialisation","topic":"History"},
+          {"id":4,"title":"Chapter 4: Print Culture","topic":"History"},
+          {"id":5,"title":"Chapter 5: Resources and Development","topic":"Geography"},
+          {"id":6,"title":"Chapter 6: Forest and Wildlife","topic":"Geography"},
+          {"id":7,"title":"Chapter 7: Water Resources","topic":"Geography"},
+          {"id":8,"title":"Chapter 8: Agriculture","topic":"Geography"},
+          {"id":9,"title":"Chapter 9: Democratic Politics","topic":"Civics"},
+          {"id":10,"title":"Chapter 10: Economics","topic":"Economics"}
+        ]
+      }
+    }
+  },
+  "cbse12": {
+    "name": "CBSE 12th",
+    "lang": "English",
+    "subjects": {
+      "Physics": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Electric Charges and Fields","topic":"Electrostatics"},
+          {"id":2,"title":"Chapter 2: Electrostatic Potential","topic":"Electrostatics"},
+          {"id":3,"title":"Chapter 3: Current Electricity","topic":"Electricity"},
+          {"id":4,"title":"Chapter 4: Moving Charges and Magnetism","topic":"Magnetism"},
+          {"id":5,"title":"Chapter 5: Magnetism and Matter","topic":"Magnetism"},
+          {"id":6,"title":"Chapter 6: Electromagnetic Induction","topic":"EMI"},
+          {"id":7,"title":"Chapter 7: Alternating Current","topic":"AC"},
+          {"id":8,"title":"Chapter 8: Electromagnetic Waves","topic":"EMW"},
+          {"id":9,"title":"Chapter 9: Ray Optics","topic":"Optics"},
+          {"id":10,"title":"Chapter 10: Wave Optics","topic":"Optics"},
+          {"id":11,"title":"Chapter 11: Dual Nature of Radiation","topic":"Modern Physics"},
+          {"id":12,"title":"Chapter 12: Atoms","topic":"Modern Physics"},
+          {"id":13,"title":"Chapter 13: Nuclei","topic":"Modern Physics"},
+          {"id":14,"title":"Chapter 14: Semiconductor Electronics","topic":"Electronics"}
+        ]
+      },
+      "Chemistry": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: The Solid State","topic":"Physical Chemistry"},
+          {"id":2,"title":"Chapter 2: Solutions","topic":"Physical Chemistry"},
+          {"id":3,"title":"Chapter 3: Electrochemistry","topic":"Physical Chemistry"},
+          {"id":4,"title":"Chapter 4: Chemical Kinetics","topic":"Physical Chemistry"},
+          {"id":5,"title":"Chapter 5: Surface Chemistry","topic":"Physical Chemistry"},
+          {"id":6,"title":"Chapter 6: p-block Elements","topic":"Inorganic Chemistry"},
+          {"id":7,"title":"Chapter 7: d and f block Elements","topic":"Inorganic Chemistry"},
+          {"id":8,"title":"Chapter 8: Coordination Compounds","topic":"Inorganic Chemistry"},
+          {"id":9,"title":"Chapter 9: Haloalkanes","topic":"Organic Chemistry"},
+          {"id":10,"title":"Chapter 10: Alcohols and Phenols","topic":"Organic Chemistry"},
+          {"id":11,"title":"Chapter 11: Aldehydes and Ketones","topic":"Organic Chemistry"},
+          {"id":12,"title":"Chapter 12: Amines","topic":"Organic Chemistry"},
+          {"id":13,"title":"Chapter 13: Biomolecules","topic":"Organic Chemistry"},
+          {"id":14,"title":"Chapter 14: Polymers","topic":"Organic Chemistry"}
+        ]
+      },
+      "Biology": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Reproduction in Organisms","topic":"Reproduction"},
+          {"id":2,"title":"Chapter 2: Sexual Reproduction","topic":"Reproduction"},
+          {"id":3,"title":"Chapter 3: Human Reproduction","topic":"Reproduction"},
+          {"id":4,"title":"Chapter 4: Reproductive Health","topic":"Health"},
+          {"id":5,"title":"Chapter 5: Principles of Inheritance","topic":"Genetics"},
+          {"id":6,"title":"Chapter 6: Molecular Basis of Inheritance","topic":"Genetics"},
+          {"id":7,"title":"Chapter 7: Evolution","topic":"Evolution"},
+          {"id":8,"title":"Chapter 8: Human Health and Disease","topic":"Health"},
+          {"id":9,"title":"Chapter 9: Food Production","topic":"Biotechnology"},
+          {"id":10,"title":"Chapter 10: Microbes in Human Welfare","topic":"Biotechnology"},
+          {"id":11,"title":"Chapter 11: Biotechnology Principles","topic":"Biotechnology"},
+          {"id":12,"title":"Chapter 12: Biotechnology Applications","topic":"Biotechnology"},
+          {"id":13,"title":"Chapter 13: Organisms and Populations","topic":"Ecology"},
+          {"id":14,"title":"Chapter 14: Ecosystems","topic":"Ecology"}
+        ]
+      },
+      "Mathematics": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Relations and Functions","topic":"Algebra"},
+          {"id":2,"title":"Chapter 2: Inverse Trigonometry","topic":"Trigonometry"},
+          {"id":3,"title":"Chapter 3: Matrices","topic":"Algebra"},
+          {"id":4,"title":"Chapter 4: Determinants","topic":"Algebra"},
+          {"id":5,"title":"Chapter 5: Continuity and Differentiability","topic":"Calculus"},
+          {"id":6,"title":"Chapter 6: Application of Derivatives","topic":"Calculus"},
+          {"id":7,"title":"Chapter 7: Integrals","topic":"Calculus"},
+          {"id":8,"title":"Chapter 8: Application of Integrals","topic":"Calculus"},
+          {"id":9,"title":"Chapter 9: Differential Equations","topic":"Calculus"},
+          {"id":10,"title":"Chapter 10: Vector Algebra","topic":"Vectors"},
+          {"id":11,"title":"Chapter 11: Three Dimensional Geometry","topic":"Geometry"},
+          {"id":12,"title":"Chapter 12: Linear Programming","topic":"Operations Research"},
+          {"id":13,"title":"Chapter 13: Probability","topic":"Statistics"}
+        ]
+      },
+      "English": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: The Last Lesson","topic":"Prose"},
+          {"id":2,"title":"Chapter 2: Lost Spring","topic":"Prose"},
+          {"id":3,"title":"Chapter 3: Deep Water","topic":"Prose"},
+          {"id":4,"title":"Chapter 4: The Rattrap","topic":"Prose"},
+          {"id":5,"title":"Chapter 5: Indigo","topic":"Prose"},
+          {"id":6,"title":"Chapter 6: Poets and Pancakes","topic":"Prose"},
+          {"id":7,"title":"Chapter 7: The Browning Version","topic":"Drama"},
+          {"id":8,"title":"Chapter 8: Evans Tries an O-Level","topic":"Prose"},
+          {"id":9,"title":"Chapter 9: On the Face of It","topic":"Drama"},
+          {"id":10,"title":"Chapter 10: Memories of Childhood","topic":"Prose"}
+        ]
+      }
+    }
+  },
+  "tn12_em": {
+    "name": "TN 12th English Medium",
+    "lang": "English",
+    "subjects": {
+      "English": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Prose - Lessons","topic":"Prose"},
+          {"id":2,"title":"Chapter 2: Poetry","topic":"Poetry"},
+          {"id":3,"title":"Chapter 3: Supplementary","topic":"Fiction"},
+          {"id":4,"title":"Chapter 4: Grammar","topic":"Language"},
+          {"id":5,"title":"Chapter 5: Writing Skills","topic":"Writing"}
+        ]
+      },
+      "Physics": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Electrostatics","topic":"Electricity"},
+          {"id":2,"title":"Chapter 2: Current Electricity","topic":"Electricity"},
+          {"id":3,"title":"Chapter 3: Magnetism","topic":"Magnetism"},
+          {"id":4,"title":"Chapter 4: Electromagnetic Induction","topic":"EMI"},
+          {"id":5,"title":"Chapter 5: Optics","topic":"Optics"},
+          {"id":6,"title":"Chapter 6: Modern Physics","topic":"Nuclear"}
+        ]
+      },
+      "Chemistry": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Atomic Structure","topic":"Physical"},
+          {"id":2,"title":"Chapter 2: Chemical Bonding","topic":"Physical"},
+          {"id":3,"title":"Chapter 3: Organic Chemistry","topic":"Organic"},
+          {"id":4,"title":"Chapter 4: Inorganic Chemistry","topic":"Inorganic"},
+          {"id":5,"title":"Chapter 5: Physical Chemistry","topic":"Physical"}
+        ]
+      },
+      "Biology": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Cell Biology","topic":"Cell"},
+          {"id":2,"title":"Chapter 2: Genetics","topic":"Genetics"},
+          {"id":3,"title":"Chapter 3: Evolution","topic":"Evolution"},
+          {"id":4,"title":"Chapter 4: Human Physiology","topic":"Physiology"},
+          {"id":5,"title":"Chapter 5: Ecology","topic":"Ecology"}
+        ]
+      },
+      "Mathematics": {
+        "chapters": [
+          {"id":1,"title":"Chapter 1: Applications of Matrices","topic":"Algebra"},
+          {"id":2,"title":"Chapter 2: Trigonometry","topic":"Trigonometry"},
+          {"id":3,"title":"Chapter 3: Algebra","topic":"Algebra"},
+          {"id":4,"title":"Chapter 4: Calculus","topic":"Calculus"},
+          {"id":5,"title":"Chapter 5: Geometry","topic":"Geometry"}
+        ]
+      }
+    }
+  }
+}
